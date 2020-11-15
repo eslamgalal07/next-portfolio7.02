@@ -42,7 +42,7 @@ export default function Layout({ children, title }) {
   }
   header a:hover {
    font-weight:bold;
-   color: lightgrey;
+   color: yellow;
   }
   `}</style>
 
