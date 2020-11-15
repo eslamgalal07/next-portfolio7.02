@@ -7,7 +7,7 @@ function Post(props) {
   return (
     <Layout >
       <h1>{title}</h1>
-      <p style={{ width: "80vw" }}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate repellendus labore nobis quis dolores dolorem veritatis rem iusto accusantium suscipit tenetur maiores, debitis dicta odio autem doloribus asperiores fugiat in tempore. Quod veritatis exercitationem reiciendis sit voluptatibus? Provident, voluptas quo?</p>
+      <p style={{ width: "80vw" }}> Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, eos?</p>
     </Layout>
   )
 }
